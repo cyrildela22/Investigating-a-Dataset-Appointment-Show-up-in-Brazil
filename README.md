@@ -15,10 +15,10 @@ Installation of the following packages via conda or pip.
 - csv
 
 
-###Table of Contents:
+## Table of Contents:
 - Introduction
-   -Gathering data by downloading from a link provided by Udacity.The given data has 110527 entries and 14 features. 
 - Data Wrangling
 - Exploratory Data Analysis
-- Conclusion
+- Conclusions
    - Share findings 
+- Limitations
